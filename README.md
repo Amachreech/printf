@@ -1,1 +1,1 @@
-first team project in alx "printf"
+First team project in alx "printf"
